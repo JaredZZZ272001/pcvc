@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "562749372461",
+    "project_id": "pcvc-ae145",
+    "storage_bucket": "pcvc-ae145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562749372461:android:4969858b9b88bca991e0a4",
+        "android_client_info": {
+          "package_name": "com.mycompany.pcvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562749372461-shlv10kgclukfof8105iotj49f4fobnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pcvc",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "562749372461-u8v4niqtaimq2ihipih1t0tsougrf1ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzam-NqK2-ncjfL4hIHRZA_BABQ_u9y2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562749372461-u8v4niqtaimq2ihipih1t0tsougrf1ka.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562749372461-fd0lao8isgpp504pgni0kelh7bk5fun5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.pcvc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
